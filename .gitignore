@@ -14,6 +14,8 @@ config/.env
 # them.
 lab2_workspace/
 data/embeddings/
+# Kaggle competition data: download it from Kaggle, don't republish it.
+data/kaggle/
 DM2026-Lab2-AgentPipeline-Grading-Reference.ipynb
 DM2026-Lab2-Master-Grading-Reference.ipynb
 
